@@ -5,7 +5,7 @@
 💻 Sou desenvolvedor [Front-End | Back-End | Fullstack]
 
 
-🎓 No momento, faço o curso de [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) na [Cubos Academy](https://cubos.academy/).
+🎓 No momento, faço o curso de [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software) na [Cubos Academy](https://cubos.academy/).
 
 
 ✒️ No meu tempo livre, gosto de estar em contato com a natureza ou realizando algum esporte. Isso me ajuda a manter uma mente tranquila e ao mesmo tempo focada.
